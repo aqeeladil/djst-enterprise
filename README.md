@@ -1,4 +1,4 @@
-﻿# Django-Stripe Subacription App
+﻿# Django-Stripe Subscription App
 A simple Django-Stripe subscription application that listens to live events. We'll manually handle Stripe integrations instead of relying on dj-stripe. And use Postgresql database to manage, store and retrieve user data. 
 
 <br>
